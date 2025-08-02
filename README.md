@@ -12,7 +12,7 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | Raspberry Pi + Windows Syslog Logging System |
+| Centralized Log Management and Secure Log Forwarding | <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a> |
 
 ## Tools
 <div>
@@ -30,4 +30,4 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 </div>
 
 ## Projects
-- Raspberry Pi + Windows Syslog Logging System
+- <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a>
