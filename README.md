@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello, I'm Joseph
+<a href="https://linkedin.com/in/joseph-0875a324b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**m-erlin777/m-erlin777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a self-learning student with interests in everything related to Cybersecurity and AI/ML, as well as general programming. I am highly dedicated and consistently building my knowledge and skills related to the industry. I grew up utilizing technology in various ways and was always troubleshooting my own issues. I have been actively working towards a career in the field since 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My goals are to obtain extensive knowledge and skills in various fields. I am currently aiming to become a SOC Analyst and eventually transition into AI/ML engineering.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network Traffic Monitoring and Attack Detection | Raspberry Pi + Windows Syslog Logging System |
+
+## Tools
+<div>
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+<img src="https://img.shields.io/badge/-rsyslog-0078D7?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-NXLog-000000?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenSSH-333333?style=for-the-badge&logo=OpenSSH&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-CISSP-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-00ADEF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- Raspberry Pi + Windows Syslog Logging System
