@@ -17,11 +17,18 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 
 ## Tools
 <div>
+
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
 <img src="https://img.shields.io/badge/-rsyslog-0078D7?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-NXLog-000000?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenSSH-333333?style=for-the-badge&logo=OpenSSH&logoColor=white" />
 <img src="https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+
+  
 </div>
 
 ## Certifications
