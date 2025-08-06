@@ -13,6 +13,7 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Centralized Log Management and Secure Log Forwarding | <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a> |
+| Cross-Platform Log Management and Troubleshooting | <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a>
 
 ## Tools
 <div>
@@ -31,3 +32,4 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 
 ## Projects
 - <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a>
+- <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a>
