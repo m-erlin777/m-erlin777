@@ -6,7 +6,13 @@ I am a self-learning student with interests in everything related to Cybersecuri
 
 My goals are to obtain extensive knowledge and skills in various fields. I am currently aiming to become a SOC Analyst.
 
-## Skills
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-CISSP-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-00ADEF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+##
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -28,12 +34,6 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
 
   
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-CISSP-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-00ADEF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
