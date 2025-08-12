@@ -14,6 +14,7 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 |-----------------------------------------------|----------------------------|
 | Centralized Log Management and Secure Log Forwarding | <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a> |
 | Cross-Platform Log Management and Troubleshooting | <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a>
+| PowerShell Automated Audit Script | <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a>
 
 ## Tools
 <div>
@@ -40,3 +41,4 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 ## Projects
 - <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a>
 - <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a>
+- <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a>
