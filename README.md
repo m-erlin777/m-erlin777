@@ -4,9 +4,7 @@
 
 I am a self-learning student with interests in everything related to Cybersecurity and AI/ML, as well as general programming. I am highly dedicated and consistently building my knowledge and skills related to the industry.
 
-## Objective
-
-My goals are to obtain extensive knowledge and skills in various fields. I am currently aiming to become a SOC Analyst and eventually transition into AI/ML engineering.
+My goals are to obtain extensive knowledge and skills in various fields. I am currently aiming to become a SOC Analyst.
 
 ## Skills
 
