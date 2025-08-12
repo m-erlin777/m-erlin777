@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/joseph-0875a324b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a self-learning student with interests in everything related to Cybersecurity and AI/ML, as well as general programming. I am highly dedicated and consistently building my knowledge and skills related to the industry. I grew up utilizing technology in various ways and was always troubleshooting my own issues. I have been actively working towards a career in the field since 2023.
+I am a self-learning student with interests in everything related to Cybersecurity and AI/ML, as well as general programming. I am highly dedicated and consistently building my knowledge and skills related to the industry.
 
 ## Objective
 
