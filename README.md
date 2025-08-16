@@ -20,10 +20,13 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 | Cross-Platform Log Management and Troubleshooting | <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a> |
 | PowerShell Automated Audit Script | <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a> |
 | Python Authentication Log Parser | <a href="https://github.com/m-erlin777/Python-Log-Parser/tree/main">Python Log Parser</a> |
+| Suricata Integration (ELK) | <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a> |
 
 ## Tools
 <div>
 
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
 <img src="https://img.shields.io/badge/-rsyslog-0078D7?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-NXLog-000000?style=for-the-badge&logo=windows&logoColor=white" />
@@ -33,6 +36,8 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 <img src="https://img.shields.io/badge/-Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
 <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-ED1C24?style=for-the-badge&logoColor=white" />
+
 
   
 </div>
@@ -42,3 +47,4 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 - <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a>
 - <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a>
 - <a href="https://github.com/m-erlin777/Python-Log-Parser/tree/main">Python Log Parser</a>
+- <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a>
