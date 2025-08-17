@@ -21,6 +21,7 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 | PowerShell Automated Audit Script | <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a> |
 | Python Authentication Log Parser | <a href="https://github.com/m-erlin777/Python-Log-Parser/tree/main">Python Log Parser</a> |
 | Suricata Integration (ELK) | <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a> |
+| Threat Intel Aggregator | <a href="https://github.com/m-erlin777/Threat-Intel-Aggregator/tree/main">Threat Intel Aggregator</a> |
 
 ## Tools
 <div>
@@ -48,3 +49,4 @@ My goals are to obtain extensive knowledge and skills in various fields. I am cu
 - <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a>
 - <a href="https://github.com/m-erlin777/Python-Log-Parser/tree/main">Python Log Parser</a>
 - <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a>
+- <a href="https://github.com/m-erlin777/Threat-Intel-Aggregator/tree/main">Threat Intel Aggregator</a>
