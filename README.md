@@ -4,7 +4,7 @@
 
 I am a self-learning student with interests in everything related to Cybersecurity and AI/ML, as well as general programming. I am highly dedicated and consistently building my knowledge and skills related to the industry.
 
-My goals are to obtain extensive knowledge and skills in various fields. I am currently aiming to become a SOC Analyst.
+My goals are to obtain extensive knowledge and skills in various fields. I am CISSP and CySA+ certified and currently aiming to become a SOC Analyst.
 
 ## Certifications
 <div>
