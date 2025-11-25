@@ -39,6 +39,13 @@ My goals are to obtain extensive knowledge and skills in various fields. I am CI
 <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-ED1C24?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-0A64F0?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+
+
 
 
   
