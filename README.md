@@ -2,9 +2,7 @@
 <a href="https://linkedin.com/in/joseph-0875a324b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a self-learning student with interests in everything related to Cybersecurity and AI/ML, as well as general programming and robotics. I am highly dedicated and consistently building my knowledge and skills related to the industry.
-
-My goals are to obtain extensive knowledge and skills in various fields. I am CISSP and CySA+ certified and currently aiming to become a SOC Analyst.
+Cybersecurity practitioner portfolio.
 
 ## Certifications
 <div>
@@ -18,11 +16,10 @@ My goals are to obtain extensive knowledge and skills in various fields. I am CI
 |-----------------------------------------------|----------------------------|
 | Centralized Log Management and Secure Log Forwarding | <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a> |
 | Cross-Platform Log Management and Troubleshooting | <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a> |
-| PowerShell Automated Audit Script | <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a> |
-| Python Authentication Log Parser | <a href="https://github.com/m-erlin777/Python-Log-Parser/tree/main">Python Log Parser</a> |
 | Suricata Integration (ELK) | <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a> |
 | Threat Intel Aggregator | <a href="https://github.com/m-erlin777/Threat-Intel-Aggregator/tree/main">Threat Intel Aggregator</a> |
-| Network Topology Project | <a href="https://github.com/m-erlin777/Inter-VLAN-Routing/tree/main">Inter-VLAN Routing</a> |
+| PowerShell Automated Audit Script | <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a> |
+| Python Authentication Log Parser | <a href="https://github.com/m-erlin777/Python-Log-Parser/tree/main">Python Log Parser</a> |
 
 ## Tools
 <div>
