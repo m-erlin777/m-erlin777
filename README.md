@@ -14,7 +14,7 @@ Cybersecurity practitioner portfolio.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Centralized Log Management and Secure Log Forwarding | <a href="https://github.com/m-erlin777/Centralized-Syslog-Server/tree/main">Centralized Syslog Server</a> |
+| SIEM Threat Detection and Log Analysis | <a href="https://github.com/m-erlin777/siem-threat-detection">SIEM Threat Detection</a> |
 | Cross-Platform Log Management and Troubleshooting | <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a> |
 | Suricata Integration (ELK) | <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a> |
 | Threat Intel Aggregator | <a href="https://github.com/m-erlin777/Threat-Intel-Aggregator/tree/main">Threat Intel Aggregator</a> |
