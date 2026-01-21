@@ -14,6 +14,7 @@ Cybersecurity practitioner portfolio.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Wireshark Network Analysis | <a href="https://github.com/m-erlin777/wireshark-pcap-simulation">PCAP Analysis</a> |
 | SIEM Threat Detection and Log Analysis | <a href="https://github.com/m-erlin777/siem-threat-detection">SIEM Threat Detection</a> |
 | Cross-Platform Log Management and Troubleshooting | <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a> |
 | Suricata Integration (ELK) | <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a> |
