@@ -11,16 +11,35 @@ Cybersecurity practitioner portfolio.
 </div>
 
 ##
+### Network Traffic Analysis & Detection
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Wireshark Network Analysis | <a href="https://github.com/m-erlin777/wireshark-pcap-simulation">PCAP Analysis</a> |
-| SIEM Threat Detection and Log Analysis | <a href="https://github.com/m-erlin777/siem-threat-detection">SIEM Threat Detection</a> |
-| Cross-Platform Log Management and Troubleshooting | <a href="https://github.com/m-erlin777/ELK-Stack-Integration/tree/main">ELK Stack Integration</a> |
-| Suricata Integration (ELK) | <a href="https://github.com/m-erlin777/Suricata-Integration/tree/main">Suricata Integration</a> |
-| Threat Intel Aggregator | <a href="https://github.com/m-erlin777/Threat-Intel-Aggregator/tree/main">Threat Intel Aggregator</a> |
-| PowerShell Automated Audit Script | <a href="https://github.com/m-erlin777/PowerShell-Security-Audit-Script/tree/main">PowerShell Security Audit</a> |
-| Python Authentication Log Parser | <a href="https://github.com/m-erlin777/Python-Log-Parser/tree/main">Python Log Parser</a> |
+| Skill                     | Project |
+|---------------------------|---------|
+| Wireshark Analysis        | [PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation) |
+| Suricata (ELK) Integration| [Suricata Integration](https://github.com/m-erlin777/Suricata-Integration) |
+
+### SIEM, Logging & Incident Analysis
+
+| Skill                        | Project |
+|------------------------------|---------|
+| ELK Stack Management         | [ELK Stack Integration](https://github.com/m-erlin777/ELK-Stack-Integration) |
+| SIEM Threat Detection        | [SIEM Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
+| Authentication Log Parsing   | [Python Log Parser](https://github.com/m-erlin777/Python-Log-Parser) |
+
+### Automation, Scripting & Threat Intelligence
+
+| Skill                  | Project |
+|------------------------|---------|
+| Threat Intel Aggregator| [Threat Intel Aggregator](https://github.com/m-erlin777/Threat-Intel-Aggregator) |
+| Windows Audit (PowerShell)| [PowerShell Security Audit](https://github.com/m-erlin777/PowerShell-Security-Audit-Script) |
+
+### File Inspection & Binary Analysis
+
+| Skill                     | Project |
+|---------------------------|---------|
+| File Type Inspection (Magic Numbers) | [File Inspector](https://github.com/m-erlin777/file-inspector) |
+
+
 
 ## Tools
 <div>
