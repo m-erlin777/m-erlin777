@@ -1,4 +1,3 @@
-# Hello, I'm Joseph
 <a href="https://linkedin.com/in/joseph-0875a324b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -22,6 +21,7 @@ Cybersecurity practitioner portfolio.
 
 | Project                       | 🔗 |
 |------------------------------|---------|
+| Splunk Enterprise            | [Splunk SIEM Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring) |
 | ELK Stack Management         | [ELK Stack Integration](https://github.com/m-erlin777/ELK-Stack-Integration) |
 | SIEM Threat Detection        | [SIEM Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
 | Authentication Log Parsing   | [Python Log Parser](https://github.com/m-erlin777/Python-Log-Parser) |
