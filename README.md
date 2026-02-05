@@ -23,8 +23,7 @@ Cybersecurity practitioner portfolio.
 | Project                       | 🔗 |
 |------------------------------|---------|
 | Splunk Enterprise            | [Splunk SIEM Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring) |
-| ELK Stack Management         | [ELK Stack Integration](https://github.com/m-erlin777/ELK-Stack-Integration) |
-| SIEM Threat Detection        | [SIEM Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
+| ELK Stack Threat Detection        | [ELK Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
 
 
 
