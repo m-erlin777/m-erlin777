@@ -17,6 +17,7 @@ Cybersecurity practitioner portfolio.
 | Project                   | 🔗 |
 |---------------------------|---------|
 | Wireshark Analysis        | [PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation) |
+|                           | [Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)
 
 ### SIEM, Logging & Incident Analysis
 
