@@ -17,7 +17,6 @@ Cybersecurity practitioner portfolio.
 | Project                   | 🔗 |
 |---------------------------|---------|
 | Wireshark Analysis        | [PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation) |
-| Suricata (ELK) Integration| [Suricata Integration](https://github.com/m-erlin777/Suricata-Integration) |
 
 ### SIEM, Logging & Incident Analysis
 
@@ -26,20 +25,6 @@ Cybersecurity practitioner portfolio.
 | Splunk Enterprise            | [Splunk SIEM Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring) |
 | ELK Stack Management         | [ELK Stack Integration](https://github.com/m-erlin777/ELK-Stack-Integration) |
 | SIEM Threat Detection        | [SIEM Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
-| Authentication Log Parsing   | [Python Log Parser](https://github.com/m-erlin777/Python-Log-Parser) |
-
-### Automation, Scripting & Threat Intelligence
-
-| Project                  |🔗|
-|------------------------|---------|
-| Threat Intel Aggregator| [Threat Intel Aggregator](https://github.com/m-erlin777/Threat-Intel-Aggregator) |
-| Windows Audit (PowerShell)| [PowerShell Security Audit](https://github.com/m-erlin777/PowerShell-Security-Audit-Script) |
-
-### File Inspection & Binary Analysis
-
-| Project                     | 🔗|
-|---------------------------|---------|
-| File Type Inspection (Magic Numbers) | [File Inspector](https://github.com/m-erlin777/file-inspector) |
 
 
 
